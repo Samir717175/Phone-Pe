@@ -5,7 +5,7 @@ Key Performance Indicators (KPIs)
 
 
 
-##Displayed at the top:
+## Displayed at the top:
 
 
 
@@ -27,7 +27,7 @@ A Date Range Slicer (01-01-2024 to 30-12-2024) helps users filter data by time.
 
 
 
-##📉 Visualizations Breakdown
+## 📉 Visualizations Breakdown
 
 
 
@@ -35,7 +35,7 @@ A Date Range Slicer (01-01-2024 to 30-12-2024) helps users filter data by time.
 
 
 
-##1️⃣ Service vs Amount (Bar Chart)
+## 1️⃣ Service vs Amount (Bar Chart)
 
 
 
@@ -63,13 +63,13 @@ Recharge & Bills — 2M
 
 
 
-##2️⃣ Failed Payment Reason (Pie Chart)
+## 2️⃣ Failed Payment Reason (Pie Chart)
 
 
 
 
 
-#Breakdown of failed transactions by cause:
+# Breakdown of failed transactions by cause:
 
 
 
@@ -92,13 +92,13 @@ Server Error
 
 
 
-##3️⃣ Date vs Amount (Line Chart)
+## 3️⃣ Date vs Amount (Line Chart)
 
 
 
 
 
-#Month-wise transaction amount trend:
+Month-wise transaction amount trend:
 
 
 
@@ -118,13 +118,13 @@ Lowest in August — 10M
 
 
 
-##🧭 Navigation Pane (Left Sidebar)
+## 🧭 Navigation Pane (Left Sidebar)
 
 
 
 
 
-#Provides quick access to different service pages:
+Provides quick access to different service pages:
 
 
 
@@ -143,13 +143,13 @@ Recharge & Bills
 
 
 
-##⭐ Overall Summary & Insight
+## ⭐ Overall Summary & Insight
 
 
 
 
 
-#This dashboard effectively highlights:
+# This dashboard effectively highlights:
 
 ✔ Yearly transaction performance
 
